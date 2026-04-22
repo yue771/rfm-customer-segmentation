@@ -97,6 +97,15 @@ The clustering results show clear behavioral differences:
 
 ---
 
+## 🚀 Download Dataset
+
+import kagglehub
+# Download latest version
+path = kagglehub.dataset_download("mathchi/online-retail-ii-data-set-from-ml-repository")
+print("Path to dataset files:", path)
+
+---
+
 ## 🚀 Future Improvements
 
 - Try other clustering methods (e.g., Hierarchical clustering)  
@@ -107,3 +116,4 @@ The clustering results show clear behavioral differences:
 
 ## ✨ Author
 This project is part of a data analysis learning portfolio.
+> 🚀 This project demonstrates end-to-end data analysis skills, from data preprocessing to machine learning and business insight generation.
