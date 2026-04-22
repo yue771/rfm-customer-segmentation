@@ -100,7 +100,6 @@ The clustering results show clear behavioral differences:
 ## 🚀 Download Dataset
 
 import kagglehub
-# Download latest version
 path = kagglehub.dataset_download("mathchi/online-retail-ii-data-set-from-ml-repository")
 print("Path to dataset files:", path)
 
