@@ -97,4 +97,13 @@ The clustering results show clear behavioral differences:
 
 ---
 
-## 📁 Project Structure
+## 🚀 Future Improvements
+
+- Try other clustering methods (e.g., Hierarchical clustering)  
+- Add more features (e.g., customer demographics)  
+- Build a recommendation system based on segments  
+
+---
+
+## ✨ Author
+This project is part of a data analysis learning portfolio.
